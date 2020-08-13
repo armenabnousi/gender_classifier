@@ -6,7 +6,7 @@
 * Be aware of the ethical issues behind sex/gender classification before using this code.
 
 ## Overview:
-I have used the (VGG Face Descriptor model)[http://www.robots.ox.ac.uk/~vgg/software/vgg_face/] for transfer learning, to train a new model for classifiying sex in the (Adience dataset)[https://talhassner.github.io/home/projects/Adience/Adience-main.html].
+I have used the [VGG Face Descriptor model](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/) for transfer learning, to train a new model for classifiying sex in the [Adience dataset](https://talhassner.github.io/home/projects/Adience/Adience-main.html).
 ## 1. Results:
 After training for 3 epochs on my laptop (~7 hours):
 
