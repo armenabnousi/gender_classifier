@@ -1,5 +1,5 @@
 
-## Gender Classifier on Adience Data Using VGG-face Pretrained Model
+## Gender Classifier on Adience Data Using Tranfer Learning From VGG Face Descriptor
 
 ## Ethics Warning:
 * This model has not been tested for potential bias based on race, skin color, etc, as such it is not designed for real-world use unless comprehensively tested and reformed.
